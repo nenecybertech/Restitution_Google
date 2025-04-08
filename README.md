@@ -1,0 +1,1 @@
+Ce projet consiste au clonage du navigateur Google avec uniquement du HTML et CSS.
